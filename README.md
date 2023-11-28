@@ -5,6 +5,9 @@ Hi there! This is FolksDev.
 #### Contact
 
 <blockquote>
+FOLLOW US
+<br>
+<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Ffolksdevtv&style=for-the-badge&logo=x&logoColor=black&label=Folksdev&labelColor=white&color=white">
 <a href="https://www.youtube.com/folksdev" ><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"> <a href="https://www.instagram.com/folksdevtv/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"><a href="https://medium.com/folksdev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </blockquote>
 
